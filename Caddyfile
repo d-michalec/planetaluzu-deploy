@@ -1,4 +1,4 @@
-planetaluzu.pl, www.planetaluzu.pl {
+planeta-luzu.pl, www.planeta-luzu.pl {
   encode gzip zstd
 
   handle_path /api/* {

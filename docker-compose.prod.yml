@@ -5,7 +5,7 @@ services:
     env_file:
       - ./planetaluzu/.env
     environment:
-      APP_CORS_ALLOWED_ORIGINS: https://planetaluzu.pl,https://www.planetaluzu.pl
+      APP_CORS_ALLOWED_ORIGINS: https://planeta-luzu.pl,https://www.planeta-luzu.pl
       SESSION_COOKIE_SAME_SITE: lax
       SESSION_COOKIE_SECURE: "true"
     expose:
